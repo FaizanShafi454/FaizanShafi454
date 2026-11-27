@@ -1,16 +1,14 @@
-## Hi there 👋
+# Faizan Shafi Seroo
 
-<!--
-**FaizanShafi454/FaizanShafi454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science and Analytics, University of Hertfordshire.
 
-Here are some ideas to get you started:
+I work on uncertainty quantification, confidence calibration and conformal
+prediction for reliable computer vision on edge hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [edge-perception-quantisation-reliability](https://github.com/FaizanShafi454/edge-perception-quantisation-reliability):
+  how FP32/FP16/INT8 quantisation affects YOLOv8n confidence and calibration.
+- Conformal coverage under quantisation: code release in preparation.
+
+Contact: faizanshafi454@gmail.com
